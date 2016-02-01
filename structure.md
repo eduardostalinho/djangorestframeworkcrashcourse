@@ -10,21 +10,18 @@
    - Framework
      - Falar sobre browsable API.
 
------------
 - SetUp
 
 - Serializadores
     - Funciona como os forms do Django.
     - Serializers e ModelSerializers
------------
     - Fields e Relations
-    - Hyperlinks
 
 - Views
     - Requests, responses, decorators.
     - Class base views.
     - Viewsets. Obs: Não use viewsets porque é mais fácil, isso pode complicar muito as coisas.
-
+-----------
 - Testes
     - O problema de testar com algumas coisas escondidas. Exemplo:
     ```
